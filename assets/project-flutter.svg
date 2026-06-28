@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-label="Placeholder aplicacion Flutter">
+  <rect width="1200" height="820" fill="#dbeafe"/>
+  <rect x="110" y="70" width="980" height="680" rx="24" fill="#f8fafc"/>
+  <rect x="164" y="122" width="420" height="576" rx="34" fill="#111827"/>
+  <rect x="186" y="158" width="376" height="504" rx="26" fill="#ffffff"/>
+  <rect x="226" y="206" width="250" height="28" rx="14" fill="#1f7a6d"/>
+  <rect x="226" y="264" width="300" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="226" y="300" width="210" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="226" y="372" width="260" height="136" rx="18" fill="#dbeafe"/>
+  <circle cx="296" cy="440" r="36" fill="#1f7a6d"/>
+  <rect x="226" y="548" width="300" height="48" rx="24" fill="#111827"/>
+  <rect x="650" y="210" width="330" height="34" rx="17" fill="#111827"/>
+  <rect x="650" y="274" width="390" height="18" rx="9" fill="#94a3b8"/>
+  <rect x="650" y="314" width="300" height="18" rx="9" fill="#94a3b8"/>
+  <rect x="650" y="410" width="150" height="46" rx="23" fill="#1f7a6d"/>
+  <text x="650" y="545" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Screenshot pendiente</text>
+</svg>

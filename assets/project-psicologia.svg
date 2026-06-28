@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-label="Placeholder consultorio psicologico">
+  <rect width="1200" height="820" fill="#ecfeff"/>
+  <rect x="92" y="82" width="1016" height="656" rx="24" fill="#ffffff"/>
+  <rect x="142" y="132" width="916" height="70" rx="16" fill="#f8fafc"/>
+  <rect x="172" y="158" width="180" height="18" rx="9" fill="#0f766e"/>
+  <rect x="760" y="158" width="86" height="18" rx="9" fill="#cbd5e1"/>
+  <rect x="870" y="158" width="86" height="18" rx="9" fill="#cbd5e1"/>
+  <rect x="190" y="286" width="390" height="42" rx="21" fill="#111827"/>
+  <rect x="190" y="366" width="480" height="18" rx="9" fill="#94a3b8"/>
+  <rect x="190" y="402" width="330" height="18" rx="9" fill="#94a3b8"/>
+  <rect x="190" y="502" width="180" height="52" rx="26" fill="#0f766e"/>
+  <rect x="760" y="272" width="250" height="330" rx="26" fill="#ccfbf1"/>
+  <circle cx="885" cy="382" r="70" fill="#99f6e4"/>
+  <rect x="815" y="486" width="140" height="22" rx="11" fill="#0f766e"/>
+  <text x="190" y="655" fill="#155e75" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Reemplazar por screenshot</text>
+</svg>

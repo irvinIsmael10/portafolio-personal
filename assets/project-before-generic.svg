@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Referencia visual del estado anterior</title>
+  <desc id="desc">Imagen generica para representar el antes de un proyecto web.</desc>
+  <rect width="1200" height="760" fill="#f9faf7"/>
+  <rect x="72" y="70" width="1056" height="620" rx="22" fill="#ffffff" stroke="#dfe2dc" stroke-width="4"/>
+  <rect x="72" y="70" width="1056" height="82" rx="22" fill="#ece7dc"/>
+  <circle cx="126" cy="111" r="13" fill="#dc6657"/>
+  <circle cx="171" cy="111" r="13" fill="#e1b454"/>
+  <circle cx="216" cy="111" r="13" fill="#1f7a6d"/>
+  <rect x="132" y="220" width="456" height="52" rx="10" fill="#dfe2dc"/>
+  <rect x="132" y="300" width="368" height="26" rx="8" fill="#ece7dc"/>
+  <rect x="132" y="348" width="416" height="26" rx="8" fill="#ece7dc"/>
+  <rect x="132" y="420" width="168" height="48" rx="10" fill="#175f55"/>
+  <rect x="652" y="218" width="348" height="250" rx="18" fill="#e7ebe6"/>
+  <path d="M700 410l86-95 72 72 45-54 74 77z" fill="#c8d5cf"/>
+  <circle cx="893" cy="286" r="38" fill="#d7ded9"/>
+  <rect x="132" y="545" width="868" height="30" rx="9" fill="#f0f2ee"/>
+  <rect x="132" y="595" width="712" height="30" rx="9" fill="#f0f2ee"/>
+  <text x="600" y="657" fill="#626a70" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">Imagen generica del antes</text>
+</svg>

@@ -12,13 +12,19 @@ Sitio web estatico para presentar experiencia, proyectos, habilidades tecnicas y
 ## Pendientes para personalizar
 
 1. Reemplazar los enlaces de contacto en `index.html`:
-   - `correo@ejemplo.com`
-   - `https://wa.me/5210000000000`
    - `https://github.com/`
    - `https://www.linkedin.com/`
-2. Agregar la fotografia profesional como `assets/profile.jpg`.
-3. Agregar el CV como `assets/CV-Irvin-Rodriguez.pdf`.
-4. Agregar enlaces reales de demos o repositorios en las tarjetas de proyectos cuando esten disponibles.
+2. La fotografia profesional se usa desde `assets/profile.jpg`.
+3. El CV se descarga desde `assets/CV_Irvin_Rodriguez_ES.pdf`.
+4. Reemplazar los placeholders de proyectos por capturas reales:
+   - `assets/project-flutter.svg`
+   - `assets/project-polleria-desktop.png`
+   - `assets/project-polleria-mobile.png`
+   - `assets/project-polleria-mobile-2.png`
+   - `assets/project-psicologia-desktop.png`
+   - `assets/project-sinnen-desktop.png`
+   - `assets/project-sinnen-mobile.png`
+5. Agregar el link real de la aplicacion Flutter cuando este disponible.
 
 ## Uso
 

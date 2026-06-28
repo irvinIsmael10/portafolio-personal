@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-label="Placeholder Sinnen">
+  <rect width="1200" height="820" fill="#eef2ff"/>
+  <rect x="88" y="78" width="1024" height="664" rx="24" fill="#ffffff"/>
+  <rect x="140" y="132" width="920" height="330" rx="24" fill="#111827"/>
+  <rect x="190" y="194" width="320" height="42" rx="21" fill="#ffffff"/>
+  <rect x="190" y="274" width="450" height="18" rx="9" fill="#9ca3af"/>
+  <rect x="190" y="312" width="330" height="18" rx="9" fill="#9ca3af"/>
+  <rect x="190" y="370" width="145" height="48" rx="24" fill="#1f7a6d"/>
+  <rect x="720" y="174" width="270" height="220" rx="24" fill="#374151"/>
+  <rect x="140" y="510" width="270" height="120" rx="20" fill="#f8fafc"/>
+  <rect x="465" y="510" width="270" height="120" rx="20" fill="#f8fafc"/>
+  <rect x="790" y="510" width="270" height="120" rx="20" fill="#f8fafc"/>
+  <text x="140" y="692" fill="#312e81" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Placeholder de proyecto</text>
+</svg>
