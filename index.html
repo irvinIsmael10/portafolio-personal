@@ -237,17 +237,17 @@
           <article class="project-card">
             <div
               class="project-image"
-              aria-label="Vista de landing page de consultorio psicologico"
+              aria-label="Vista de landing page de Psic Ovando"
             >
-              <img src="assets/project-psicologia-desktop.png" alt="Captura de consultorio psicologico en escritorio" />
+              <img src="assets/project-psicologia-desktop.png" alt="Captura de Psic Ovando en escritorio" />
             </div>
             <div class="project-content">
               <span class="project-type">Landing page</span>
-              <h3>Consultorio psicológico</h3>
+              <h3>Psic. Ovando</h3>
               <div class="case-details">
-                <p><strong>Problema:</strong> El profesional necesitaba una página clara para presentar sus servicios y facilitar el contacto de nuevos pacientes.</p>
-                <p><strong>Qué hice:</strong> Desarrollé una landing page con secciones de servicios, información profesional, ubicación y contacto.</p>
-                <p><strong>Resultado:</strong> El sitio ayuda a generar confianza y centralizar la información importante para posibles pacientes.</p>
+                <p><strong>Problema:</strong> El sitio anterior estaba hecho en Wix, no se adaptaba bien a celular y mostraba desbordes, navegación limitada y una presentación visual poco profesional.</p>
+                <p><strong>Qué hice:</strong> Rediseñé y desarrollé una landing page responsiva con servicios, perfil profesional, terapia en línea, ubicación y llamadas directas a contacto.</p>
+                <p><strong>Resultado:</strong> El sitio ahora comunica confianza desde el primer vistazo, funciona mejor en móvil y facilita que nuevos pacientes agenden por WhatsApp.</p>
               </div>
               <div class="tag-list">
                 <span>HTML</span>
@@ -258,10 +258,12 @@
                 <button
                   class="small-button js-comparison-open"
                   type="button"
-                  data-title="Consultorio psicológico"
-                  data-before="assets/project-before-generic.svg"
-                  data-after="assets/project-psicologia-desktop.png"
-                  data-url="https://irvinismael10.github.io/portafolio-personal/"
+                  data-title="Psic. Ovando"
+                  data-before="assets/psicovando-before-desktop.png"
+                  data-before-mobile="assets/psicovando-before-mobile.png"
+                  data-after="assets/psicovando-after-desktop.png"
+                  data-after-mobile="assets/psicovando-after-mobile.png"
+                  data-url="https://irvinismael10.github.io/psic-ovando/"
                 >
                   Conoce más
                 </button>
@@ -281,9 +283,9 @@
               <span class="project-type">Landing page</span>
               <h3>Sinnen</h3>
               <div class="case-details">
-                <p><strong>Problema:</strong> La empresa tenía presencia web, pero el sitio podía mejorar en estructura, presentación y experiencia móvil.</p>
-                <p><strong>Qué hice:</strong> Realicé una propuesta de rediseño enfocada en ordenar mejor el contenido, mejorar la navegación y dar una imagen más profesional.</p>
-                <p><strong>Resultado:</strong> La propuesta permite presentar mejor la empresa y facilitar que los visitantes entiendan sus servicios.</p>
+                <p><strong>Problema:</strong> El sitio anterior en Wix no era responsivo, generaba desplazamiento horizontal en celular y tenía fallos visibles de márgenes y navegación.</p>
+                <p><strong>Qué hice:</strong> Realicé una propuesta de rediseño enfocada en impacto visual, estructura clara, navegación estable y adaptación real a escritorio y móvil.</p>
+                <p><strong>Resultado:</strong> La landing presenta mejor a la empresa, evita desbordes y permite que los visitantes entiendan los servicios desde cualquier dispositivo.</p>
               </div>
               <div class="tag-list">
                 <span>HTML</span>
@@ -295,8 +297,11 @@
                   class="small-button js-comparison-open"
                   type="button"
                   data-title="Sinnen"
-                  data-before="assets/project-before-generic.svg"
+                  data-comparison-set="sinnen"
+                  data-before="assets/sinnen-before-desktop.png"
+                  data-before-mobile="assets/sinnen-before-mobile.png"
                   data-after="assets/project-sinnen-desktop.png"
+                  data-after-mobile="assets/project-sinnen-mobile.png"
                   data-url="https://irvinismael10.github.io/Sinnen/"
                 >
                   Conoce más
@@ -427,15 +432,35 @@
             </button>
           </div>
         </div>
-        <div class="comparison-grid">
-          <figure class="comparison-panel">
-            <figcaption>Antes</figcaption>
-            <img id="comparison-before" src="assets/project-before-generic.svg" alt="Imagen del antes del proyecto" />
-          </figure>
-          <figure class="comparison-panel">
-            <figcaption>Después</figcaption>
-            <img id="comparison-after" src="assets/project-before-generic.svg" alt="Imagen del después del proyecto" />
-          </figure>
+        <div class="comparison-sections" id="comparison-sections">
+          <div class="comparison-grid">
+            <figure class="comparison-panel">
+              <figcaption>Antes</figcaption>
+              <div class="comparison-shots">
+                <div class="comparison-shot comparison-shot-desktop">
+                  <span>Escritorio</span>
+                  <img id="comparison-before" src="assets/project-before-generic.svg" alt="Imagen del antes del proyecto en escritorio" />
+                </div>
+                <div class="comparison-shot comparison-shot-mobile">
+                  <span>Celular</span>
+                  <img id="comparison-before-mobile" src="assets/project-before-generic.svg" alt="Imagen del antes del proyecto en celular" />
+                </div>
+              </div>
+            </figure>
+            <figure class="comparison-panel">
+              <figcaption>Después</figcaption>
+              <div class="comparison-shots">
+                <div class="comparison-shot comparison-shot-desktop">
+                  <span>Escritorio</span>
+                  <img id="comparison-after" src="assets/project-before-generic.svg" alt="Imagen del después del proyecto en escritorio" />
+                </div>
+                <div class="comparison-shot comparison-shot-mobile">
+                  <span>Celular</span>
+                  <img id="comparison-after-mobile" src="assets/project-before-generic.svg" alt="Imagen del después del proyecto en celular" />
+                </div>
+              </div>
+            </figure>
+          </div>
         </div>
       </section>
     </div>
